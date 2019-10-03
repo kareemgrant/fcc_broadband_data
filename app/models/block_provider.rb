@@ -1,0 +1,2 @@
+class BlockProvider < ApplicationRecord
+end
